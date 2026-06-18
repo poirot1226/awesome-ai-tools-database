@@ -330,6 +330,7 @@ SET url = EXCLUDED.url, updated_at = NOW();
 | [Canva](https://canva.com) | ✅ Free tier | Quick graphics, social media |
 | [Sketch](https://sketch.com) | ❌ Paid (Mac) | Professional UI design |
 | [Adobe XD](https://adobe.com/xd) | ✅ Free tier | Adobe ecosystem integration |
+| [Roblox GUI Maker](https://robloxguimaker.dev) | ✅ Free | Roblox Studio GUI layouts and Lua UI starter code |
 
 ### 🎨 Free Assets
 

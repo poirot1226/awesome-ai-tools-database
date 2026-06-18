@@ -756,6 +756,23 @@
     "tags": ["design", "website", "no-code", "animation"]
   },
   {
+    "name": "Roblox GUI Maker",
+    "url": "https://robloxguimaker.dev",
+    "category": "design",
+    "subcategory": "ui-design",
+    "description": "AI-assisted planner for Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas.",
+    "free_tier": true,
+    "free_tier_details": "Free browser-based GUI planning tool",
+    "best_for": "Roblox developers planning game UI prototypes",
+    "use_cases": [
+      "Roblox ScreenGui planning",
+      "HUD and menu layout ideation",
+      "Lua UI starter-code ideas"
+    ],
+    "last_updated": "2026-06-18",
+    "tags": ["ai", "roblox", "ui", "game-dev", "lua"]
+  },
+  {
     "name": "shadcn/ui",
     "url": "https://ui.shadcn.com",
     "category": "design",
