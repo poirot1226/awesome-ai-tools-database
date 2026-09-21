@@ -476,6 +476,7 @@ SET url = EXCLUDED.url, updated_at = NOW();
 | [Cheatography](https://cheatography.com) | ✅ | 4000+ cheat sheets |
 | [Explain Shell](https://explainshell.com) | ✅ | Understand bash commands |
 | [Regex101](https://regex101.com) | ✅ | Test & explain regex |
+| [NextReset](https://nextreset.ai/) | ✅ | Source-linked Codex reset history and official AI incident reference |
 
 ### 🎓 Paid (Worth It)
 
